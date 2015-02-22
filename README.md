@@ -8,9 +8,6 @@ Third course in the Data Science Specialization on Coursera
   * It uses descriptive activity names to name the activities in the data set
   * It appropriately labels the data set with descriptive activity names
   * And it creates an independent tidy data set with the average of each variable, each activity and each subject
-  
-* You can find all project-related materials in the UCI HAR Dataset directory
-* However, copies of the important files have been put into this main directory to fulfill the submission requirement
 
 * Unzip (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 * Put "run_analysis.R" into the "UCI HAR Dataset" folder
